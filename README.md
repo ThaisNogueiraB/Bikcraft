@@ -9,6 +9,6 @@ Site criado no curso Origamid de Web Design
 - **JavaScript** 
 - **PHP** 
 
-# Layout 🔖
+# 🔖 Layout 
 Design do projeto Bikcraft foram desenvolvidos no Adobe XD, você pode acessar no link abaixo:
  - [Design do projeto](https://xd.adobe.com/view/ac3109cd-9956-4bab-9854-0019ef1f03d3-f962/?fullscreen)
